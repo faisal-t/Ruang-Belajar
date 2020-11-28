@@ -9,7 +9,9 @@
 
 ## About Laravel
 
-//tambahan readme 1
+Ketika Berhasil Clone Langkah Pertama Yaitu Membuat .env file terlebih dahulu tingal copas dari .env.example
+setelah itu lakukan perintah php artisan key:generate
+selesai tinggal php artisan serve dan laravel berhasil di jalankan
 
 
 Laravel is a web application aaaa framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
